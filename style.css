@@ -1,0 +1,191 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body and Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+    padding-top: 50px;
+}
+
+/* Navigation Bar */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    z-index: 10;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Home Section */
+#home {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+#home .intro h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+#home .intro span {
+    font-weight: bold;
+}
+
+#home button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#home button:hover {
+    background-color: #555;
+}
+
+/* Skills Section */
+#skills {
+    background-color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+#skills h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.skills-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.skill {
+    background-color: #f1f1f1;
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+/* Projects Section */
+#projects {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+#projects h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.project {
+    display: inline-block;
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.project h3 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.project p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.project button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.project button:hover {
+    background-color: #555;
+}
+
+/* Contact Section */
+#contact {
+    background-color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+#contact h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+#contact form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#contact input, #contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+}
+
+#contact button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#contact button:hover {
+    background-color: #45a049;
+}
+
