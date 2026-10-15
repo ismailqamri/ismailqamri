@@ -1,3 +1,5 @@
+![Profile Banner](![Uploading Black and Gold Bold Legal Advisor LinkedIn Banner.png…]()
+)
 <!-- Header banner -->
 <div align="center">
 
