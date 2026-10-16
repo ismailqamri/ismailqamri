@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/ismailqamri/ismailqamri/blob/main/Black%20and%20Gold%20Bold%20Legal%20Advisor%20LinkedIn%20Banner.png)
+![Profile Banner](https://github.com/ismailqamri/ismailqamri/blob/main/banner.png)
 <!-- Header banner -->
 <div align="center">
 
