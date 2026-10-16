@@ -1,6 +1,16 @@
 ![Profile Banner](https://github.com/ismailqamri/ismailqamri/blob/main/banner.png)
 
 
+<div align="center">
+
+<a href="https://github.com/ismailqamri">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI-powered+software;Turning+ML+models+into+real+products;Backend+%2B+AI%2C+one+project+at+a+time" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="mailto:qamriismail7@gmail.com"><img src="https://img.shields
+
 <a href="https://github.com/ismailqamri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI-powered+software;Turning+ML+models+into+real+products;Backend+%2B+AI%2C+one+project+at+a+time" alt="Typing animation" />
 </a>
