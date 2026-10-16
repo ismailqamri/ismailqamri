@@ -2,7 +2,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Ismail%20Qamri&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20%28AI%20%26%20ML%29%20Student%20%7C%20AI%20%26%20Backend%20Developer&descSize=18&descAlignY=60" alt="Ismail Qamri" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Ismail%20Qamri&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20Student%20%7C%20AI%2FML%20%26%20Backend%20Developer&descSize=18&descAlignY=60" alt="Ismail Qamri" width="100%" />
 
 <a href="https://github.com/ismailqamri">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI-powered+software;Turning+ML+models+into+real+products;Backend+%2B+AI%2C+one+project+at+a+time" alt="Typing animation" />
